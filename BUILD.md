@@ -52,4 +52,6 @@
        test> quit
    ```
    <br>
-7.
+
+
+7. Local Database configured in resources > application.properties.  
